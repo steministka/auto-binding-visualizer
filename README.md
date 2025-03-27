@@ -1,3 +1,8 @@
+Final project
+Structural Bioinformatics | Skoltech | 2025
+Contributors
+Veronika Karpushenkova
+Iuliia Parshchikova
 # auto-binding-visualizer
 **Automatic Molecular Visualization of Binding Sites**<br>
 An interactive Python tool to visualize the binding site of a protein-ligand complex given its PDB ID. The tool should display and label interacting residues and ligand interactions.<br>
