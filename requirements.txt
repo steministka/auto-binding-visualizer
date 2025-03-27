@@ -1,4 +1,0 @@
-MDAnalysis>=2.4.0
-nglview>=3.0.3
-prolif>=1.0.0
-jupyterlab>=3.6.0
